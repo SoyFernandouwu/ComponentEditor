@@ -44,10 +44,6 @@
         {
           "name": "DCMotor_1",
           "part": "DCMotor"
-        },
-        {
-          "name": "DCMotor_2",
-          "part": "DCMotor"
         }
       ],
       "wires": [
